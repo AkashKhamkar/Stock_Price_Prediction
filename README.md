@@ -4,6 +4,8 @@
 ### - Lasso Regression
 ### - Ridge Regression
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AkashKhamkar/Stock_Price_Prediction/blob/master/Stock%20Price%20Prediction.ipynb)
+
 ### Installation::
 
 1. Clone or download the repository
