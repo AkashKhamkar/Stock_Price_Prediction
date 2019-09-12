@@ -16,4 +16,4 @@ $pip install -r requirements.txt
 ```
 4. Run stock_price_prediction.py
 
-(*Optional you can also directly view the IPython Notebook [Stock Price Prediction.ipynb]*)
+(*Optional you can also directly view expected output in the IPython Notebook [Stock Price Prediction.ipynb]*)
