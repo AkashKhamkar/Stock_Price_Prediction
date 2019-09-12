@@ -3,7 +3,7 @@
 ### - Polynomial Regression
 ### - Lasso Regression
 ### - Ridge Regression
-
+### You can directly open the ipython notebook in Google Colab using the below button :)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AkashKhamkar/Stock_Price_Prediction/blob/master/Stock%20Price%20Prediction.ipynb)
 
 ### Installation::
