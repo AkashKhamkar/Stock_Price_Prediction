@@ -19,7 +19,7 @@ $pip install -r requirements.txt
 4. Run stock_price_prediction.py
 
 ## Expected Output Example:
-![OUTPUT](/images/output.png)
+![OUTPUT](https://github.com/AkashKhamkar/Stock_Price_Prediction/blob/master/images/output.PNG)
 Format: ![Alt Text](url)
 
 (*Optional you can also directly view expected output in the IPython Notebook [Stock Price Prediction.ipynb]*)
